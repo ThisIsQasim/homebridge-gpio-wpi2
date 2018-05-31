@@ -15,7 +15,7 @@
 		"homebridge": ">=0.4.6"
 	},
 	"dependencies": {
-		"node-wiring-pi": "^0.0.3",
+		"node-wiring-pi": "https://github.com/ThisIsQasim/node-wiring-pi",
 		"sleep": "^5.1.0",
 		"epoll" : "^0.1.21"
 	}
